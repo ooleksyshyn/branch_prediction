@@ -6,7 +6,7 @@
 #include <chrono>
 #include <iomanip>
 
-#include "/tao/json.hpp"
+#include "tao/json.hpp"
 
 namespace {
     std::string readStringFromFile(const std::string& file_path) {
